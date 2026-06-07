@@ -1,5 +1,4 @@
 name: scrape-science
-run: python scibill_scraper/scraper.py
 
 on:
   schedule:
